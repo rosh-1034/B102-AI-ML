@@ -25,7 +25,7 @@ class Largest:
         if a>b:
             print(a,"so a is a largest")
         else:
-            print(b,"so b is a largest")
+            print(b,"is a largest")
 s=Largest()
 s.large()
 
